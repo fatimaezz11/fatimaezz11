@@ -6,6 +6,13 @@
 <a href="mailto:fatima.ezzahra.elbahhat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+### 🛠️ My Approach to Problem Solving (in case of total failure)
+For those critical moments when all else fails, I keep my first-line of defense very simple. 
+
+![Hello IT, have you tried turning it off and on again?](image_0.png)
+
+*(Wait, is there a typo in that GIF? The IT Crowd taught us so much, maybe even spelling.)*
+
 ---
 
 ### 💻 Tech Stack:
