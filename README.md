@@ -9,7 +9,6 @@
 ---
 
 ### 🛠️ My Approach to Problem Solving
-For those critical moments when the pipeline breaks or the code refuses to cooperate, I stick to the golden rule of IT.
 
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFidThzdzU4ZXBkdXl2ZDNkczdpa2FyeXltZG1reXBkdTh2cjU5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" width="350" alt="The IT Crowd GIF" />
