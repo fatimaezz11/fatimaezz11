@@ -14,9 +14,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFidThzdzU4ZXBkdXl2ZDNkczdpa2FyeXltZG1reXBkdTh2cjU5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" width="350" alt="The IT Crowd GIF" />
 </p>
 
-*(Yes, the GIF has a typo, but in IT, we call that a "feature".)*
 
----
 
 ### 💻 Tech Stack:
 
