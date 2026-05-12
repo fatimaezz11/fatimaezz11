@@ -6,12 +6,16 @@
 <a href="mailto:fatima.ezzahra.elbahhat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 🛠️ My Approach to Problem Solving (in case of total failure)
-For those critical moments when all else fails, I keep my first-line of defense very simple. 
+---
 
-![Hello IT, have you tried turning it off and on again?](image_0.png)
+### 🛠️ My Approach to Problem Solving
+For those critical moments when the pipeline breaks or the code refuses to cooperate, I stick to the golden rule of IT.
 
-*(Wait, is there a typo in that GIF? The IT Crowd taught us so much, maybe even spelling.)*
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFidThzdzU4ZXBkdXl2ZDNkczdpa2FyeXltZG1reXBkdTh2cjU5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" width="350" alt="The IT Crowd GIF" />
+</p>
+
+*(Yes, the GIF has a typo, but in IT, we call that a "feature".)*
 
 ---
 
